@@ -164,6 +164,33 @@ git/GitHub, we strongly recommend following a tutorial, such as `this one
 We also have a `page dedicated to git commands <http://coala.io/git>`_ that
 will help you learn the basics.
 
+.. note::
+
+    coala also has some of its repositories on
+    `Gitlab <https://gitlab.com/coala>`_.
+    Gitlab contributions also count for the promotion of
+    newcomer to developer process.
+
+Why Gitlab?
+-----------
+
+The usage of Gitlab is same as that of Github as both are web-based Git
+repositories.
+
+It has everything GitHub has, and more- giving teams increased control
+over their repositories. Its extra features include:
+
+ - ``Snippet support`` lets users share small pieces of code from a
+   project, without sharing the whole project.
+
+ - ``Authentication levels`` take this security a step further,
+   allowing users to give people access beyond a read/write level.
+   For example, you can give a team member access to issue tracking
+   without having to give them access to the code itself.
+
+We also have a `wiki page <https://github.com/coala/coala/wiki/GitLab>`_
+that will illustrate about Gitlab more.
+
 If anything is unclear, or you are encountering problems, feel free
 to contact us on `gitter <https://coala.io/chat>`_,
 and we will help you!
