@@ -166,9 +166,10 @@ will help you learn the basics.
 
 .. note::
 
-
-    coala also has some of its repositories on  `Gitlab <https://gitlab.com/coala>`_.
-    Gitlab contributions also count for the promotion of newcomer to developer process.
+    coala also has some of its repositories on
+    `Gitlab <https://gitlab.com/coala>`_.
+    Gitlab contributions also count for the promotion of
+    newcomer to developer process.
 
 Why Gitlab?
 -----------
